@@ -11,7 +11,7 @@ public class NestedLoops {
             System.out.println();
         }
         System.out.println("*****************");
-        //outer loop controls 
+        //outer loop controls
         for (int i = 1; i <5 ; i++) {// outer loop
             System.out.println("Hello");
             for (int j = 1; j <=2 ; j++) {// inner loop
